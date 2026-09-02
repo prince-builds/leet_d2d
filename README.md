@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prince-builds/leet_d2d/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/prince-builds/leet_d2d/tree/master/0283-move-zeroes) |
 | [2239-find-closest-number-to-zero](https://github.com/prince-builds/leet_d2d/tree/master/2239-find-closest-number-to-zero) |
+| [3875-construct-uniform-parity-array-i](https://github.com/prince-builds/leet_d2d/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince-builds/leet_d2d/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/prince-builds/leet_d2d/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
