@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prince-builds/leet_d2d/tree/master/0283-move-zeroes) |
 | [2239-find-closest-number-to-zero](https://github.com/prince-builds/leet_d2d/tree/master/2239-find-closest-number-to-zero) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prince-builds/leet_d2d/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/prince-builds/leet_d2d/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/prince-builds/leet_d2d/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/prince-builds/leet_d2d/tree/master/3876-construct-uniform-parity-array-ii) |
 <!---LeetCode Topics End-->
