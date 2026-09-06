@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince-builds/leet_d2d/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/prince-builds/leet_d2d/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/prince-builds/leet_d2d/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/prince-builds/leet_d2d/tree/master/0125-valid-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/prince-builds/leet_d2d/tree/master/1768-merge-strings-alternately) |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/prince-builds/leet_d2d/tree/master/0115-distinct-subsequences) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prince-builds/leet_d2d/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prince-builds/leet_d2d/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
