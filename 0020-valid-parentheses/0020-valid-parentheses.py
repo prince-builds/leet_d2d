@@ -1,9 +1,9 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack=[]
-        mapp={ ")":"(", "]":"[", "}":"{"}
+        mapp={ ")":"(", "]":"[","}":"{"}
         for i in s:
-            if i == "(" or i == "[" or i == "{":
+            if i=="(" or i=="[" or i=="{":
                 stack.append(i)
             else:
                 if not stack:
@@ -12,4 +12,5 @@ class Solution:
                 if top!=mapp[i]:
                     return False
         return not stack
+
         
