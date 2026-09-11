@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prince-builds/leet_d2d/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/prince-builds/leet_d2d/tree/master/0704-binary-search) |
 | [2239-find-closest-number-to-zero](https://github.com/prince-builds/leet_d2d/tree/master/2239-find-closest-number-to-zero) |
+| [3483-unique-3-digit-even-numbers](https://github.com/prince-builds/leet_d2d/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prince-builds/leet_d2d/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/prince-builds/leet_d2d/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/prince-builds/leet_d2d/tree/master/3903-smallest-stable-index-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prince-builds/leet_d2d/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince-builds/leet_d2d/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3483-unique-3-digit-even-numbers](https://github.com/prince-builds/leet_d2d/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/prince-builds/leet_d2d/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/prince-builds/leet_d2d/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prince-builds/leet_d2d/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/prince-builds/leet_d2d/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
