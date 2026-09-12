@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prince-builds/leet_d2d/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/prince-builds/leet_d2d/tree/master/0704-binary-search) |
 | [2239-find-closest-number-to-zero](https://github.com/prince-builds/leet_d2d/tree/master/2239-find-closest-number-to-zero) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/prince-builds/leet_d2d/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prince-builds/leet_d2d/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prince-builds/leet_d2d/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/prince-builds/leet_d2d/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/prince-builds/leet_d2d/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/prince-builds/leet_d2d/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/prince-builds/leet_d2d/tree/master/0704-binary-search) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/prince-builds/leet_d2d/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Newton's Method
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/prince-builds/leet_d2d/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/prince-builds/leet_d2d/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/prince-builds/leet_d2d/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/prince-builds/leet_d2d/tree/master/0141-linked-list-cycle) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/prince-builds/leet_d2d/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
