@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/prince-builds/leet_d2d/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/prince-builds/leet_d2d/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/prince-builds/leet_d2d/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/prince-builds/leet_d2d/tree/master/0835-image-overlap) |
 | [2239-find-closest-number-to-zero](https://github.com/prince-builds/leet_d2d/tree/master/2239-find-closest-number-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/prince-builds/leet_d2d/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prince-builds/leet_d2d/tree/master/3483-unique-3-digit-even-numbers) |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prince-builds/leet_d2d/tree/master/0104-maximum-depth-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/prince-builds/leet_d2d/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
