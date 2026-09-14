@@ -10,9 +10,10 @@ class Solution:
             return True
         if p is None or q is None:
             return False
-        if p.val!=q.val:
+        if p.val != q.val :
             return False
-        left_same=self.isSameTree(p.left,q.left)
-        right_same=self.isSameTree(p.right,q.right)
-        return left_same and right_same
+        leftt = self.isSameTree(p.left , q.left)
+        rightt = self.isSameTree(p.right , q.right)
+        
+        return leftt and rightt
         
