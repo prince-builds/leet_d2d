@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/prince-builds/leet_d2d/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prince-builds/leet_d2d/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/prince-builds/leet_d2d/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/prince-builds/leet_d2d/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prince-builds/leet_d2d/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/prince-builds/leet_d2d/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prince-builds/leet_d2d/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/prince-builds/leet_d2d/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/prince-builds/leet_d2d/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prince-builds/leet_d2d/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/prince-builds/leet_d2d/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prince-builds/leet_d2d/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/prince-builds/leet_d2d/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/prince-builds/leet_d2d/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prince-builds/leet_d2d/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
@@ -153,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/prince-builds/leet_d2d/tree/master/0835-image-overlap) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/prince-builds/leet_d2d/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/prince-builds/leet_d2d/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
