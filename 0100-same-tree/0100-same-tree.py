@@ -14,6 +14,5 @@ class Solution:
             return False
         left_same=self.isSameTree(p.left,q.left)
         right_same=self.isSameTree(p.right,q.right)
-
         return left_same and right_same
         
