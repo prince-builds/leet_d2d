@@ -9,18 +9,18 @@ class Solution:
         if root is None:
             return []
         q=[]
-        result=[]
+        r=[]
         q.append(root)
         while q:
-            level_length=len(q)
-            level=[]
-            for _ in range(level_length):
+            ln=len(q)
+            l=[]
+            for _ in range(ln):
                 node=q.pop(0)
-                level.append(node.val)
+                l.append(node.val)
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-            result.append(level)
-        return result
-            
+            r.append(l)
+        return r
+        
