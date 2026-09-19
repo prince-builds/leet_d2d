@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prince-builds/leet_d2d/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/prince-builds/leet_d2d/tree/master/0035-search-insert-position) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prince-builds/leet_d2d/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0283-move-zeroes](https://github.com/prince-builds/leet_d2d/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/prince-builds/leet_d2d/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/prince-builds/leet_d2d/tree/master/0835-image-overlap) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prince-builds/leet_d2d/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince-builds/leet_d2d/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prince-builds/leet_d2d/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/prince-builds/leet_d2d/tree/master/0141-linked-list-cycle) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prince-builds/leet_d2d/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/prince-builds/leet_d2d/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prince-builds/leet_d2d/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prince-builds/leet_d2d/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prince-builds/leet_d2d/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/prince-builds/leet_d2d/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/prince-builds/leet_d2d/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prince-builds/leet_d2d/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/prince-builds/leet_d2d/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prince-builds/leet_d2d/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prince-builds/leet_d2d/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prince-builds/leet_d2d/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/prince-builds/leet_d2d/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/prince-builds/leet_d2d/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prince-builds/leet_d2d/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -167,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/prince-builds/leet_d2d/tree/master/0572-subtree-of-another-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prince-builds/leet_d2d/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
