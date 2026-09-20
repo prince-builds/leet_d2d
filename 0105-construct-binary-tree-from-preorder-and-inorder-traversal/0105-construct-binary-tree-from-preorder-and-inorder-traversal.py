@@ -6,21 +6,21 @@
 #         self.right = right
 class Solution:
     def buildTree(self, preorder: list[int], inorder: list[int]) -> TreeNode | None:
-        if not preorder:
+        if not preorder or not inorder:
             return None
-        
         root_val=preorder[0]
         root=TreeNode(root_val)
+
         idx=inorder.index(root_val)
 
-        l_inorder=inorder[:idx]
-        r_inorder=inorder[idx+1:]
+        lo=inorder[ :idx]
+        ro=inorder[idx+1:]
 
-        l_preorder=preorder[1:idx+1]
-        r_preorder=preorder[idx+1:]
+        lp=preorder[1:idx+1]
+        rp=preorder[idx+1:]
 
-        root.left=self.buildTree(l_preorder,l_inorder)
-        root.right=self.buildTree(r_preorder,r_inorder)
+        root.left=self.buildTree(lp,lo)
+        root.right=self.buildTree(rp,ro)
 
         return root
         
