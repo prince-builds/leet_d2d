@@ -1,8 +1,7 @@
 class Solution:
-    def moveZeroes(self, nums: List[int]) -> None:
+    def moveZeroes(self, nums: list[int]) -> None:
         """
         Do not return anything, modify nums in-place instead.
-
         """
         n=len(nums)
         j=0
@@ -13,4 +12,4 @@ class Solution:
         while j<n:
             nums[j]=0
             j+=1
-        return nums
+        
