@@ -9,14 +9,14 @@ class Solution:
         def h(node):
             if node is None:
                 return 0
-            lh=h(node.left)
-            if lh ==-1:
+            hl=h(node.left)
+            if hl==-1:
                 return -1
-            rh=h(node.right)
-            if rh == -1:
+            hr=h(node.right)
+            if hr == -1:
                 return -1
-            if abs(lh-rh)>1:
+            if abs(hr-hl)>1:
                 return -1
-            return 1 + max(lh,rh)
+            return 1 + max(hl,hr)
         return h(root)!=-1
         
