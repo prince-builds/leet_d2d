@@ -8,12 +8,12 @@ class Solution:
     def buildTree(self, preorder: list[int], inorder: list[int]) -> TreeNode | None:
         if not preorder or not inorder:
             return None
-        root_val=preorder[0]
-        root=TreeNode(root_val)
+        rv=preorder[0]
+        root=TreeNode(rv)
 
-        idx=inorder.index(root_val)
+        idx=inorder.index(rv)
 
-        lo=inorder[ :idx]
+        lo=inorder[:idx]
         ro=inorder[idx+1:]
 
         lp=preorder[1:idx+1]
@@ -21,6 +21,5 @@ class Solution:
 
         root.left=self.buildTree(lp,lo)
         root.right=self.buildTree(rp,ro)
-
         return root
         
