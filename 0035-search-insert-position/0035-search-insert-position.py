@@ -3,14 +3,17 @@ class Solution:
         n=len(nums)
         l=0
         r=n-1
+        ans=0
         while l<=r:
-            mid=l+(r-l)//2
+            m=l+(r-l)//2
 
-            if nums[mid]==target:
-                return mid
-            if nums[mid]<target:
-                l=mid+1
+            if nums[m]==target:
+                return m
+            if nums[m]<target:
+                l=m+1
             else:
-                r=mid-1
+                r=m-1
         return l
+
+
         
