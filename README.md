@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prince-builds/leet_d2d/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/prince-builds/leet_d2d/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prince-builds/leet_d2d/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/prince-builds/leet_d2d/tree/master/0035-search-insert-position) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prince-builds/leet_d2d/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prince-builds/leet_d2d/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/prince-builds/leet_d2d/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/prince-builds/leet_d2d/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/prince-builds/leet_d2d/tree/master/0704-binary-search) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prince-builds/leet_d2d/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prince-builds/leet_d2d/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## DP on Trees
 |  |
