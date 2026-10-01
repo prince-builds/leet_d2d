@@ -10,12 +10,10 @@ class Solution:
         def search(node):
             if node is None:
                 return None
-            if p.val< node.val and q.val <node.val:
+            if p.val<node.val and q.val<node.val:
                 return search(node.left)
-            if  p .val > node.val and q.val > node.val :
+            if p.val >node.val and q.val>node.val:
                 return search(node.right)
             return node
-
         return search(root)
-
         
