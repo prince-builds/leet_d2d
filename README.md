@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/prince-builds/leet_d2d/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prince-builds/leet_d2d/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/prince-builds/leet_d2d/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/prince-builds/leet_d2d/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prince-builds/leet_d2d/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prince-builds/leet_d2d/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/prince-builds/leet_d2d/tree/master/0217-contains-duplicate) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/prince-builds/leet_d2d/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/prince-builds/leet_d2d/tree/master/0217-contains-duplicate) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/prince-builds/leet_d2d/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Breadth-First Search
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/prince-builds/leet_d2d/tree/master/1046-last-stone-weight) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/prince-builds/leet_d2d/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
