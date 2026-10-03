@@ -5,11 +5,11 @@
 #         self.next = next
 class Solution:
     def mergeTwoLists(self, list1: ListNode | None, list2: ListNode | None) -> ListNode | None:
-        d=ListNode(0)
+        d=ListNode
         cur=d
 
         while list1 and list2:
-            if list1.val<=list2.val:
+            if list1.val <= list2.val:
                 cur.next=list1
                 list1=list1.next
             else:
