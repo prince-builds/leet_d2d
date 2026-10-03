@@ -9,12 +9,13 @@ class Solution:
         def validate(node,low,high):
             if node is None:
                 return True
-            if node.val <= low or node.val >= high:
+            if node.val <=low or node.val>=high:
                 return False
-                
 
             lh=validate(node.left,low,node.val)
             rh=validate(node.right,node.val,high)
+
             return lh and rh
-        return validate(root,float('-inf'),float('inf'))
+        return validate(root,float("-inf"),float("inf"))
+
         
