@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prince-builds/leet_d2d/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/prince-builds/leet_d2d/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/prince-builds/leet_d2d/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/prince-builds/leet_d2d/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/prince-builds/leet_d2d/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/prince-builds/leet_d2d/tree/master/0835-image-overlap) |
 | [1046-last-stone-weight](https://github.com/prince-builds/leet_d2d/tree/master/1046-last-stone-weight) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/prince-builds/leet_d2d/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/prince-builds/leet_d2d/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/prince-builds/leet_d2d/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/prince-builds/leet_d2d/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/prince-builds/leet_d2d/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/prince-builds/leet_d2d/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/prince-builds/leet_d2d/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/prince-builds/leet_d2d/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/prince-builds/leet_d2d/tree/master/0455-assign-cookies) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/prince-builds/leet_d2d/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Breadth-First Search
 |  |
@@ -235,4 +238,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/prince-builds/leet_d2d/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/prince-builds/leet_d2d/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/prince-builds/leet_d2d/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
