@@ -12,4 +12,3 @@ class Solution:
         while j<n:
             nums[j]=0
             j+=1
-        
