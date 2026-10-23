@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince-builds/leet_d2d/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/prince-builds/leet_d2d/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/prince-builds/leet_d2d/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/prince-builds/leet_d2d/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/prince-builds/leet_d2d/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/prince-builds/leet_d2d/tree/master/0125-valid-palindrome) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/prince-builds/leet_d2d/tree/master/0010-regular-expression-matching) |
 | [0115-distinct-subsequences](https://github.com/prince-builds/leet_d2d/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prince-builds/leet_d2d/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/prince-builds/leet_d2d/tree/master/0940-distinct-subsequences-ii) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/prince-builds/leet_d2d/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/prince-builds/leet_d2d/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/prince-builds/leet_d2d/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prince-builds/leet_d2d/tree/master/3483-unique-3-digit-even-numbers) |
