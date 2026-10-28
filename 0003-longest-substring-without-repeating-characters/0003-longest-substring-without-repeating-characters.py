@@ -3,15 +3,16 @@ class Solution:
         n=len(s)
         seen=set()
         l=0
-        m=0
-        for right in range (n):
-            while s[right] in seen:
-                seen.remove(s[l])
-                l+=1
-            seen.add(s[right])
-            c=1+right-l
-            m=max(m,c)
-        return m
-
+        maxx=0
+        for r in range (n):
 
         
+            while s[r]in seen:
+                seen.remove(s[l])
+                l+=1
+            seen.add(s[r])
+
+            c=r-l+1
+
+            maxx=max(c,maxx)
+        return maxx
