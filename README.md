@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/prince-builds/leet_d2d/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/prince-builds/leet_d2d/tree/master/0835-image-overlap) |
 | [1046-last-stone-weight](https://github.com/prince-builds/leet_d2d/tree/master/1046-last-stone-weight) |
+| [1480-running-sum-of-1d-array](https://github.com/prince-builds/leet_d2d/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/prince-builds/leet_d2d/tree/master/1672-richest-customer-wealth) |
 | [2239-find-closest-number-to-zero](https://github.com/prince-builds/leet_d2d/tree/master/2239-find-closest-number-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prince-builds/leet_d2d/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/prince-builds/leet_d2d/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/prince-builds/leet_d2d/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/prince-builds/leet_d2d/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
