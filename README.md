@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prince-builds/leet_d2d/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/prince-builds/leet_d2d/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/prince-builds/leet_d2d/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/prince-builds/leet_d2d/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/prince-builds/leet_d2d/tree/master/0835-image-overlap) |
 | [1046-last-stone-weight](https://github.com/prince-builds/leet_d2d/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/prince-builds/leet_d2d/tree/master/1480-running-sum-of-1d-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/prince-builds/leet_d2d/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/prince-builds/leet_d2d/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/prince-builds/leet_d2d/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/prince-builds/leet_d2d/tree/master/3904-smallest-stable-index-ii) |
