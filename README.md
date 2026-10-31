@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/prince-builds/leet_d2d/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/prince-builds/leet_d2d/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/prince-builds/leet_d2d/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/prince-builds/leet_d2d/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prince-builds/leet_d2d/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prince-builds/leet_d2d/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/prince-builds/leet_d2d/tree/master/0217-contains-duplicate) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prince-builds/leet_d2d/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prince-builds/leet_d2d/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prince-builds/leet_d2d/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/prince-builds/leet_d2d/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prince-builds/leet_d2d/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/prince-builds/leet_d2d/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/prince-builds/leet_d2d/tree/master/0283-move-zeroes) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/prince-builds/leet_d2d/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/prince-builds/leet_d2d/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/prince-builds/leet_d2d/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/prince-builds/leet_d2d/tree/master/0455-assign-cookies) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/prince-builds/leet_d2d/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
