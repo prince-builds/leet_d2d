@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prince-builds/leet_d2d/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prince-builds/leet_d2d/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/prince-builds/leet_d2d/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/prince-builds/leet_d2d/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/prince-builds/leet_d2d/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/prince-builds/leet_d2d/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/prince-builds/leet_d2d/tree/master/0088-merge-sorted-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/prince-builds/leet_d2d/tree/master/0010-regular-expression-matching) |
+| [0055-jump-game](https://github.com/prince-builds/leet_d2d/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/prince-builds/leet_d2d/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prince-builds/leet_d2d/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/prince-builds/leet_d2d/tree/master/0940-distinct-subsequences-ii) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prince-builds/leet_d2d/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/prince-builds/leet_d2d/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/prince-builds/leet_d2d/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
