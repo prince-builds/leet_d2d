@@ -1,14 +1,13 @@
 class Solution:
-    def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool:
-
-        graph = [[] for _ in range(n)]
-
-        for u, v in edges:
+    def validPath(self, n: int, edges: list[list[int]], source: int, destination: int) -> bool:
+        graph = []
+        for _ in range(n):
+            graph.append([])
+        for u, v in edges:            
             graph[u].append(v)
             graph[v].append(u)
 
         visited = set()
-
         def dfs(node):
             if node == destination:
                 return True
@@ -23,4 +22,3 @@ class Solution:
             return False
 
         return dfs(source)
-        
