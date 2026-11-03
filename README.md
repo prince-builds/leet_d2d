@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prince-builds/leet_d2d/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince-builds/leet_d2d/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/prince-builds/leet_d2d/tree/master/0012-integer-to-roman) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prince-builds/leet_d2d/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/prince-builds/leet_d2d/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/prince-builds/leet_d2d/tree/master/0217-contains-duplicate) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince-builds/leet_d2d/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/prince-builds/leet_d2d/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/prince-builds/leet_d2d/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/prince-builds/leet_d2d/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/prince-builds/leet_d2d/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/prince-builds/leet_d2d/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/prince-builds/leet_d2d/tree/master/0125-valid-palindrome) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/prince-builds/leet_d2d/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/prince-builds/leet_d2d/tree/master/0069-sqrtx) |
 | [3870-count-commas-in-range](https://github.com/prince-builds/leet_d2d/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/prince-builds/leet_d2d/tree/master/3871-count-commas-in-range-ii) |
