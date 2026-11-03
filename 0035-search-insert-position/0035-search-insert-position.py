@@ -3,7 +3,7 @@ class Solution:
         n=len(nums)
         l=0
         r=n-1
-    
+
         while l<=r:
             m=l+(r-l)//2
 
@@ -14,6 +14,4 @@ class Solution:
             else:
                 r=m-1
         return l
-
-
         
